@@ -14,3 +14,33 @@
 .toboolist-logo {
   width: 200px;
 }
+
+/* main */
+.container {
+  width: 80%;
+  background-color: #edf2f6;
+  margin: 40px auto;
+}
+
+/* Header-main */
+.header-main {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.input-header-main {
+  width: 250px;
+  padding: 5px;
+}
+
+.button-header-main {
+  padding: 7px;
+  background-color: #17aaf5;
+  color: white;
+  border: none;
+  border-radius: 2px;
+}
+
+.white-separator {
+  border: 2px solid white;
+}
